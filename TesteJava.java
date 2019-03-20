@@ -6,4 +6,10 @@ public class TesteJava {
 
 	}
 
+	private void funcionalidadex() {
+
+		//faz funcionalidade X
+
+	}
+
 }
